@@ -17,17 +17,17 @@ Do the following for each of the three recipes...
   - Paste this code at the end of each recipe file
 2. Markup the Content
   - Start with the headers.
-    - Create an <h1> header for title of the recipe. (This is your page title)
-    - Create <h2> headers for your page sections (recipe history, ingredients, and instructions.)
-  - Mark up your recipe information paragraphs <p>.
+    - Create an `<h1>` header for title of the recipe. (This is your page title)
+    - Create `<h2>` headers for your page sections (recipe history, ingredients, and instructions.)
+  - Mark up your recipe information paragraphs `<p>`.
   - Create your lists
-    - Ingredient will be an unordered list (bulleted) <ul><li>.
-    - Instruction steps will be an ordered list (numbered) <ol><li>.
+    - Ingredient will be an unordered list (bulleted) `<ul><li>`.
+    - Instruction steps will be an ordered list (numbered) `<ol><li>`.
 4. Add the recipe image 
   - Above your page title on each recipe, add your image.
-  - <img> element tag requires two attributes...
-    - alt="" describes the image content.
-    - src="" for image location
+  - `<img>` element tag requires two attributes...
+    - `alt=""` describes the image content.
+    - `src=""` for image location
   - Remember your image is located within a folder!
 5. Give Credit (cite your sources)
   - At the end of each recipe, you'll find information on where the recipe and images were from.
